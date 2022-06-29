@@ -10,7 +10,7 @@
 #### ·秦昊然
 #### ·高凌屹
 #### ·张宇鑫
-#### 更多信息请在https://github.com/Bistu-OSSDT-2022/9-lin-wangp/blob/main/CREDITS中查看
+#### 更多信息请在https://github.com/Bistu-OSSDT-2022/9-lin-wangp/blob/main/CREDITS 中查看
 # 指导教师
 #### ·李宁
 # INSTALL
