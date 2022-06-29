@@ -15,11 +15,11 @@ public class Get {
 
             if (pictures.size()!=0)//判断文件格式
             {
-                System.out.println("该Excel有.png图片");
+                System.out.println("该Excel有图片");
             }
             if(pictures.size() ==0)
             {
-                System.out.println("该Excel无.png图片");
+                System.out.println("该Excel无图片");
             }
 
 
