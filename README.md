@@ -10,7 +10,7 @@
 #### ·秦昊然
 #### ·高凌屹
 #### ·张宇鑫
-#### https://github.com/Bistu-OSSDT-2022/9-lin-wangp/blob/main/CREDITS
+#### 更多信息请在https://github.com/Bistu-OSSDT-2022/9-lin-wangp/blob/main/CREDITS中查看
 # 指导教师
 #### ·李宁
 # INSTALL
@@ -29,7 +29,7 @@
 #### 2.可以实现对表格文件对行数进行统计
 #### 3.在提供具体的行数和列数的情况下可以具体的独处单个数据
 #### 4.在提供行数的情况下可以读取某一行的所有数据
-#### 3，4二选一进行实现
+#### 5.（3，4）二选一进行实现
 # LICENSE
 #### 本项目使用MIT License许可证
 #### 详情请看：
