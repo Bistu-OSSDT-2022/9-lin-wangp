@@ -21,7 +21,7 @@
 #### 将项目导入Eclipse或您最喜欢的IDE
 #### 🔎项目源代码及依赖文件：
 #### https://github.com/Bistu-OSSDT-2022/9-lin-wangp/tree/main/INSTALL
-# FAQ
+# ❓FAQ
 ### 🔎如何安装apache poi依赖
 #### https://github.com/Bistu-OSSDT-2022/9-lin-wangp/blob/main/FAQ
 # 📚HISTORY
