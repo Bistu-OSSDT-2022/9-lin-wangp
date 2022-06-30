@@ -13,6 +13,8 @@
 #### 🔎更多信息请在https://github.com/Bistu-OSSDT-2022/9-lin-wangp/blob/main/CREDITS 中查看
 # 👨‍🏫指导教师
 #### ·🌟李宁
+# wiki
+#### https://github.com/Bistu-OSSDT-2022/9-lin-wangp/wiki
 # ⏬INSTALL
 #### 下载并安装svn或git、Java JDK 1.8+和Apache Ant 1.8+或Gradle
 #### 查看svn或git的代码
